@@ -1,0 +1,13 @@
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:2px dotted rgb(44, 126, 44);
+}
+#button1{
+    margin-top:275px;
+}
+body{
+  background-color:black;
+}
